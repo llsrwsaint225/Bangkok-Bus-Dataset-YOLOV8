@@ -2,7 +2,7 @@
 
 <div align="center">
     <a>
-        <img src="./Readme Resources/Head.png" width="79%"/>
+        <img src="./Readme Resources/Head.png" width="50%"/>
     </a>
 </div>
 
@@ -17,7 +17,7 @@
     </a>
 </div>
 
-- My dataset has approximately 2038 images of Bangkok Mass Transit Authority (BMTA) buses and Thai Smile Bus (TSB) electric buses.
+- My dataset has approximately 3,333 images of Bangkok Mass Transit Authority (BMTA) buses and Thai Smile Bus (TSB) electric buses.
 
 <div align="center">
     <a>

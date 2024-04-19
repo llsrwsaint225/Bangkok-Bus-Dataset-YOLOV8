@@ -8,6 +8,6 @@ names: ['BMTA-bus', 'Bus Line Number', 'Bus Side Number', 'Destination Sign', 'T
 roboflow:
   workspace: saint70239
   project: bangkok-bus-dataset
-  version: 19
+  version: 20
   license: CC BY 4.0
-  url: https://universe.roboflow.com/saint70239/bangkok-bus-dataset/dataset/19
+  url: https://universe.roboflow.com/saint70239/bangkok-bus-dataset/dataset/20

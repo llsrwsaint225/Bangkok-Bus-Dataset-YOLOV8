@@ -1,8 +1,8 @@
 
-Bangkok-Bus-Dataset - v19 Beta Test
+Bangkok-Bus-Dataset - v20 Beta Test V2
 ==============================
 
-This dataset was exported via roboflow.com on April 17, 2024 at 6:31 PM GMT
+This dataset was exported via roboflow.com on April 19, 2024 at 6:19 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 3147 images.
+The dataset includes 3333 images.
 Bus-line-number-and-num-of-bus are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:

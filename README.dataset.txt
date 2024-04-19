@@ -1,4 +1,4 @@
-# Bangkok-Bus-Dataset > Beta Test
+# Bangkok-Bus-Dataset > Beta Test V2
 https://universe.roboflow.com/saint70239/bangkok-bus-dataset
 
 Provided by a Roboflow user
